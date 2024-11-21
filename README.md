@@ -1,5 +1,5 @@
 # Ticket Tailor Events List for Wordpress
-This Wordpress plugin pulls event data from [Ticket Tailor API(https://developers.tickettailor.com)] and displays it on the page via shortcode.
+This Wordpress plugin pulls event data from (Ticket Tailor API[https://developers.tickettailor.com]) and displays it on the page via shortcode.
 
 ## Background ##
 Ticket Tailor's default embed codes are pretty lacking. A client using Ticket Tailor's box office wanted to show their upcoming events on their website and include with each event:

@@ -12,7 +12,7 @@ Ticket Tailor's default embed codes are pretty lacking. A client using Ticket Ta
 ## Usage ##
 1. Install the plugin
 2. Enter your Ticket Tailor API key in Settings > Ticket Tailor
-3. Insert the `[ show_events ]` shortcode wherever you'd like the shows to appear.
+3. Insert the `[ show_events ]` shortcode wherever you'd like the events list to appear.
 
 ## Styling ##
 Events are listed in a card-style flexbox grid. The plugin's style.css file can be adjusted as needed. 
